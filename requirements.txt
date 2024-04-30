@@ -1,0 +1,12 @@
+razorpay==1.4.1
+firebase-admin==6.4.0
+Flask==2.2.2
+Flask-Compress==1.13
+Flask-Cors==4.0.0
+flask-restx==1.2.0
+flask-swagger-ui==4.11.1
+nest-asyncio==1.5.5
+async-timeout==4.0.2
+gunicorn==21.2.0
+pyopenssl==24.0.0
+urllib3==1.26.15
